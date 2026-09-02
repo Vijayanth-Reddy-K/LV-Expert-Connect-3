@@ -16,11 +16,13 @@
 			<Item Name="1. Basics.vi" Type="VI" URL="../Demos/1. Basics.vi"/>
 			<Item Name="2. Simple State Machine Traffic Light.vi" Type="VI" URL="../Demos/2. Simple State Machine Traffic Light.vi"/>
 			<Item Name="3. State Machine Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/3. State Machine Based Traffic Light Simulator.vi"/>
+			<Item Name="4. Event Based State Machine - Traffic Light Simulator.vi" Type="VI" URL="../Demos/4. Event Based State Machine - Traffic Light Simulator.vi"/>
 			<Item Name="4. Producer Consumer Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/4. Producer Consumer Based Traffic Light Simulator.vi"/>
 			<Item Name="4. Queue Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/4. Queue Based Traffic Light Simulator.vi"/>
 			<Item Name="5. Informative Queue Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/5. Informative Queue Based Traffic Light Simulator.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
+			<Item Name="States for Event Based State Machine.ctl" Type="VI" URL="../Demos/Typedefs/States for Event Based State Machine.ctl"/>
 			<Item Name="Traffic Light States for Queue based example.ctl" Type="VI" URL="../Demos/Typedefs/Traffic Light States for Queue based example.ctl"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
