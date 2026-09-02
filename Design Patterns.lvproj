@@ -23,6 +23,7 @@
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="States for Event Based State Machine.ctl" Type="VI" URL="../Demos/Typedefs/States for Event Based State Machine.ctl"/>
+			<Item Name="States for State Machine based Example.ctl" Type="VI" URL="../Demos/Typedefs/States for State Machine based Example.ctl"/>
 			<Item Name="Traffic Light States for Queue based example.ctl" Type="VI" URL="../Demos/Typedefs/Traffic Light States for Queue based example.ctl"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
