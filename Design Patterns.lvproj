@@ -19,7 +19,8 @@
 			<Item Name="4. Event-Driven State Machine - Traffic Light Simulator.vi" Type="VI" URL="../Demos/4. Event-Driven State Machine - Traffic Light Simulator.vi"/>
 			<Item Name="5. Queue Based State Machine Traffic Light Simulator.vi" Type="VI" URL="../Demos/5. Queue Based State Machine Traffic Light Simulator.vi"/>
 			<Item Name="6. Informative Queue Based State Machine Traffic Light Simulator.vi" Type="VI" URL="../Demos/6. Informative Queue Based State Machine Traffic Light Simulator.vi"/>
-			<Item Name="6. Producer Consumer Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/6. Producer Consumer Based Traffic Light Simulator.vi"/>
+			<Item Name="7. Producer Consumer Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/7. Producer Consumer Based Traffic Light Simulator.vi"/>
+			<Item Name="8. Fancy UI Producer Consumer Based Traffic Light Simulator.vi" Type="VI" URL="../Demos/8. Fancy UI Producer Consumer Based Traffic Light Simulator.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="States for Event-Driven State Machine.ctl" Type="VI" URL="../Demos/Typedefs/States for Event-Driven State Machine.ctl"/>
